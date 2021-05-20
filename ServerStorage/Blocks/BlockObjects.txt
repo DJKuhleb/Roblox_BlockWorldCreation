@@ -1,0 +1,5 @@
+Create Block Parts in this folder, add Back,Bottom,Front,Left,Right, and Top Textures to each.
+
+BedRock
+Block
+DirtBlock

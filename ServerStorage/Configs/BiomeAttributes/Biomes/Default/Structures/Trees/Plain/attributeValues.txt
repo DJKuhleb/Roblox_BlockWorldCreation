@@ -1,0 +1,8 @@
+Add these as object values
+
+leafMaxHeight:IntValue
+leafMaxRadius:IntValue
+leafMinHeight:IntValue
+leafMinRadius:IntValue
+leafPlacementScale:NumberValue
+leafPlacementThreshold:NumberValue

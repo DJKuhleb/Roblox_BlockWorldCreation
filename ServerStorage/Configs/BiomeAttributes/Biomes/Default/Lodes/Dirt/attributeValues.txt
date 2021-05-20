@@ -1,0 +1,8 @@
+Add these as object values
+
+blockId:IntValue
+maxHeight:IntValue
+minHeight:IntValue
+noiseOffset:NumberValue
+scale:NumberValue
+threshold:NumberValue

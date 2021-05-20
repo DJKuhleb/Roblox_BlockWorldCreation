@@ -1,0 +1,12 @@
+Add these as values
+
+biomeName: StringValue
+maxTreeHeight: IntValue
+minTreeHeight:IntValue
+solidGroundHeight:IntValue
+terrainHeight:IntValue
+terrainScale:IntValue
+treePlacementScale: NumberValue
+treePlacementThreshold: NumberValue
+treeZoneScale: NumberValue
+treeZoneThreshold: NumberValue
